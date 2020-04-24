@@ -20,3 +20,14 @@
 - 5.2 다항 분류
   
 - 5.3 Fashion MNIST
+
+### Chapter 6 : 컨볼루션 신경망
+- 6.1 특징 추출 (Feature Extraction)
+  
+- 6.2 주요 레이어 정리
+  
+- 6.3 Fashion MNIST 데이터세트에 적용하기
+  
+- 6.4 퍼포먼스 높이기
+  + 6.4.1 더 많은 레이어 쌓기
+  + 6.4.2 이미지 보강 (Image Augmentation)
